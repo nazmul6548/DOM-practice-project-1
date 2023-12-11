@@ -28,6 +28,8 @@ sec.style.display='flex';
 sec.style.fontFamily='arial';
 sec.style.textAlign='center';
 sec.style.justifyContent= 'center';
+sec.style.backgroundColor='#999999';
+sec.style.padding='20px'
 
 
 
@@ -40,3 +42,5 @@ foot.style.marginTop='20px';
 foot.style.textAlign='center';
 foot.style.lineHeight='80px';
 foot.style.color='yellow';
+const det =document.getElementById('ills');
+det.style.color='red';
